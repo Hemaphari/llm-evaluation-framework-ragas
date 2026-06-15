@@ -72,9 +72,15 @@ llm-evaluation-framework-ragas/
 
 # Technologies Used
 Python
+
 Pytest
+
 RAGAS
+
 OpenAI
+
 JSON
+
 Git
+
 GitHub
