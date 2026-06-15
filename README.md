@@ -1,3 +1,4 @@
+```text
 # llm-evaluation-framework-ragas
 QA-focused LLM evaluation framework for assessing response quality, faithfulness, relevance, and retrieval effectiveness in RAG applications using RAGAS.
 
@@ -44,7 +45,7 @@ Why it matters: Prevents responses from drifting into unrelated subjects and imp
 Evaluates responses against predefined evaluation criteria or scoring rubrics.
 
 Why it matters: Allows customized assessment based on business requirements, quality standards, or domain-specific expectations.
-
+```text
 # Project Structure
 ```text
 llm-evaluation-framework-ragas/
