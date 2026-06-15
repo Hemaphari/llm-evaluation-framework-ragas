@@ -70,7 +70,7 @@ llm-evaluation-framework-ragas/
 └── screenshots/
 ```
 
-#Technologies Used
+# Technologies Used
 Python
 Pytest
 RAGAS
