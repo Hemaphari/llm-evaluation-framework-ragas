@@ -17,26 +17,32 @@ Apply automated evaluation using Pytest with RAGAS-based scoring methods.
 
 # Context Precision:
 Measures how relevant the retrieved context is to the generated response.
+
 Why it matters:High context precision indicates that retrieved documents contain information directly useful for answering the user's question.
 
 # Context Recall:
 Measures whether the retrieved context contains all the information necessary to answer the user's query.
+
 Why it matters:High context recall ensures important information was not missed during retrieval.
 
 # Faithfulness:
 Evaluates whether the generated response is supported by the retrieved context.
+
 Why it matters:Helps identify hallucinations and unsupported statements.
 
 # Response Relevancy:
 Measures how well the generated response addresses the user's question.
+
 Why it matters:Ensures the model remains focused on the user's intent and provides meaningful answers.
 
 # Topic Adherence:
 Evaluates whether the generated response stays aligned with the expected topic or domain.
+
 Why it matters:Prevents responses from drifting into unrelated subjects and improves answer consistency.
 
 # Rubrics Score:
 Evaluates responses against predefined evaluation criteria or scoring rubrics.
+
 Why it matters:Allows customized assessment based on business requirements, quality standards, or domain-specific expectations.
 
 # Project Structure
