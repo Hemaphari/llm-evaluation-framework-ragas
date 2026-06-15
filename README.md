@@ -1,13 +1,9 @@
 # llm-evaluation-framework-ragas
-```text
 QA-focused LLM evaluation framework for assessing response quality, faithfulness, relevance, and retrieval effectiveness in RAG applications using RAGAS.
-```text
 # Overview
-```text
 This project demonstrates automated evaluation and testing of Retrieval-Augmented Generation (RAG) applications using RAGAS, Python, and Pytest.
 Traditional software testing validates deterministic outputs, while Large Language Models (LLMs) require evaluation of response quality, factual accuracy, context utilization, and adherence to expected topics. This framework automates the assessment of AI-generated responses using industry-recognized evaluation metrics.
 The project was developed as part of my exploration into AI Quality Assurance, LLM Testing, and Generative AI evaluation techniques.
-```text
 # Objectives
 Evaluate the quality of LLM-generated responses using structured evaluation metrics.
 Assess retrieval effectiveness in Retrieval-Augmented Generation (RAG) applications.
@@ -46,7 +42,7 @@ Why it matters: Prevents responses from drifting into unrelated subjects and imp
 Evaluates responses against predefined evaluation criteria or scoring rubrics.
 
 Why it matters: Allows customized assessment based on business requirements, quality standards, or domain-specific expectations.
-```text
+
 # Project Structure
 ```text
 llm-evaluation-framework-ragas/
