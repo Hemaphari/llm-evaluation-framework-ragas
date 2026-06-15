@@ -40,6 +40,7 @@ Evaluates responses against predefined evaluation criteria or scoring rubrics.
 Why it matters:Allows customized assessment based on business requirements, quality standards, or domain-specific expectations.
 
 # Project Structure
+```text
 llm-evaluation-framework-ragas/
 
 ├── test_data/
@@ -61,3 +62,4 @@ llm-evaluation-framework-ragas/
 ├── confest.py
 ├── README.md
 └── screenshots/
+```
