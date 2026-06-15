@@ -82,3 +82,9 @@ JSON
 Git
 
 GitHub
+
+# About This Project
+
+As a QA Engineer with experience in manual and automation testing, I created this project to explore how traditional quality engineering practices can be extended to Generative AI systems.
+
+The project demonstrates practical implementation of AI testing methodologies and automated evaluation techniques for modern RAG-based applications.
